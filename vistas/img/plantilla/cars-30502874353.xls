@@ -1,0 +1,35 @@
+<table border='0'>
+
+				<tr>
+					<td style='font-weight:bold; border:1px solid #eee;'>Remitos Conformados del CLIENTE:</td>
+				</tr>
+
+				<tr>
+					<td style='font-weight:bold; border:1px solid #eee;'>8072</td>
+					<td style='font-weight:bold; border:1px solid #eee;'>ACEITERA GRAL. DEHEZA S.A.</td>
+				</tr>
+
+				<tr>
+					
+				</tr> 
+
+				<tr>
+				
+				<td style='font-weight:bold; border:1px solid #eee;'>GUIA NRO</td>
+				<td style='font-weight:bold; border:1px solid #eee;'>ORIGEN</td>
+				<td style='font-weight:bold; border:1px solid #eee;'>DESTINO</td>
+				<td style='font-weight:bold; border:1px solid #eee;'>REMITENTE</td>
+				<td style='font-weight:bold; border:1px solid #eee;'>DESTINATARIO</td>
+				<td style='font-weight:bold; border:1px solid #eee;'>RECIBIDA</td>
+				<td style='font-weight:bold; border:1px solid #eee;'>ENTREGADA</td>
+				</tr><tr>
+							
+							<td style='border:1px solid #eee;'>863455</td>
+							<td style='border:1px solid #eee;'>Rio Cuarto</td>
+							<td style='border:1px solid #eee;'>Mendoza</td>
+							<td style='border:1px solid #eee;'>ACEITERA GRAL. DEHEZA S.A.</td>
+							<td style='border:1px solid #eee;'>PROPACK SA</td>
+							<td style='border:1px solid #eee;'>2021-08-14</td>
+							<td style='border:1px solid #eee;'></td>
+
+						</tr></table>
